@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://blog.vitalii-voloshyn.workers.dev"
+# base_url = "https://blog.vitalii-voloshyn.workers.dev"
+base_url = "https://panaeon.fun"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

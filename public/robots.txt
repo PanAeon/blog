@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://blog.vitalii-voloshyn.workers.dev/sitemap.xml
+Sitemap: https://panaeon.fun/sitemap.xml

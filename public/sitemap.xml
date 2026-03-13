@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://blog.vitalii-voloshyn.workers.dev/</loc>
+        <loc>https://panaeon.fun/</loc>
     </url>
     <url>
-        <loc>https://blog.vitalii-voloshyn.workers.dev/blog/</loc>
+        <loc>https://panaeon.fun/blog/</loc>
     </url>
     <url>
-        <loc>https://blog.vitalii-voloshyn.workers.dev/blog/first/</loc>
+        <loc>https://panaeon.fun/blog/first/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
     <url>
-        <loc>https://blog.vitalii-voloshyn.workers.dev/blog/second/</loc>
+        <loc>https://panaeon.fun/blog/second/</loc>
         <lastmod>2019-11-27</lastmod>
     </url>
 </urlset>
