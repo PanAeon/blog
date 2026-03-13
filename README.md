@@ -2,9 +2,7 @@
 
 ## Build 
 ```bash
-zola build
-# or
-nix-shell --run "zola build"
+./build
 ```
 
 ## Deploy (auto on push)
