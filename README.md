@@ -3,6 +3,8 @@
 ## Build 
 ```bash
 zola build
+# or
+nix-shell --run "zola build"
 ```
 
 ## Deploy (auto on push)
