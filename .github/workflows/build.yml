@@ -2,7 +2,7 @@ name: Build Zola Website
 
 on:
   pull_request:
-  commit:
+  push:
 
 jobs:
   build-webiste:
